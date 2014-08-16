@@ -1,16 +1,13 @@
 ssh
 
-This is the ssh module.
+This is the ssh module from the Pro puppet book that I might want to keep for future use or adaptation.
 
 License
 -------
-
-
-Contact
--------
+GPLv3
 
 
 Support
 -------
 
-Please log tickets and issues at our [Projects site](http://projects.example.com)
+Please log tickets and issues at our [Github site](https://github.com/aerostitch/puppet-ssh)
